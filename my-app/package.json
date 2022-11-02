@@ -20,7 +20,7 @@
     "@keystonejs/app-static": "^5.0.0",
     "@keystonejs/auth-password": "^5.0.0",
     "@keystonejs/fields": "^5.0.0",
-    "@keystonejs/keystone": "^5.0.0",
+    "@keystonejs/keystone": "^5.6.0",
     "cross-env": "^5.2.0"
   }
 }
