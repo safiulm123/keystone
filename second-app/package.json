@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@keystonejs/adapter-mongoose": "^5.1.0",
-    "@keystonejs/app-admin-ui": "^5.0.1",
+    "@keystonejs/app-admin-ui": "^5.12.0",
     "@keystonejs/app-graphql": "^5.0.0",
     "@keystonejs/auth-password": "^5.0.0",
     "@keystonejs/fields": "^5.0.2",
